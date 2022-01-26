@@ -15,6 +15,7 @@ W grze dostępne są trzy poziomy trudności:
 - NOOB,
 - MEDIUM,
 - PRO,
+
 które różnią się szybkością powiększania celów i ich ilością na ekranie w jednej chwili.
 
 Gra kończy się w momencie zestrzelenia określonej liczby celów.
