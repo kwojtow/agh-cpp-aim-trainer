@@ -1,5 +1,5 @@
 # Aim Trainer
-## Mini-projekt zrealizowany na w ramach kursu Programowanie w jęzuku C++ na AGH
+## Mini-projekt zrealizowany w ramach kursu Programowanie w jęzuku C++ na AGH
 
 W ramach projektu stworzono prostą grę służącą do ćwiczenia refleksu i celności.
 
